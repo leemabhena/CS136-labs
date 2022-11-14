@@ -1,0 +1,9 @@
+Checking FrequencyList.java
+Starting audit...
+Audit done.
+Checking Table.java
+Starting audit...
+Audit done.
+Checking WordGen.java
+Starting audit...
+Audit done.

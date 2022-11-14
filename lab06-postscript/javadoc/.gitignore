@@ -1,0 +1,9 @@
+# ignore the auto-generated javadoc files. we can always recreate them
+# from our source.
+*.html
+*.zip
+*.js
+*.css
+resources
+script-dir
+element-list

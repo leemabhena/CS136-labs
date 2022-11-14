@@ -1,0 +1,21 @@
+# ignore OSX stuff
+.DS_Store
+
+# ignore emacs backup files
+*~
+
+# ignore .class files because we just want the source code
+*.class
+
+
+# ignore the auto-generated javadoc files. we can always recreate them
+# from our source. This is also repated in the `javadoc/` directory,
+# but we don't want to accidentally add them here either.
+
+*.html
+*.zip
+*.js
+*.css
+resources
+script-dir
+element-list
